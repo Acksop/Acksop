@@ -1,4 +1,6 @@
-### Welcome 👋 🔭 I’m currently working on SAND-framework. 💬 Ask me about SAND or do Simply (A New Directory | AND)*
+### Welcome 👋 
+🔭 I’m currently working on SAND-framework. 
+💬 Ask me about SAND or do Simply (A New Directory | AND)*
 🤔 I’m looking for help on it
 
 <!--
