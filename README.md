@@ -1,6 +1,6 @@
 ### Welcome 👋 
 
-🔭 I’m currently working on SAND-framework. 
+🔭 I’m currently working on integration of SAND-framework into the B25-platform-project. 
 
 💬 Ask me about SAND or do Simply (A New Directory | AND)*
 
