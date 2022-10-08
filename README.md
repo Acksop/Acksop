@@ -1,4 +1,5 @@
-### Welcome 👋
+### Welcome 👋 🔭 I’m currently working on SAND-framework. 💬 Ask me about SAND or do Simply (A New Directory | AND)*
+🤔 I’m looking for help on it
 
 <!--
 **Acksop/Acksop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
