@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 @hakimel
 
-Because Two of his work on javascript helped me and interrest me. His meny was the template I choose for a important project I do during my > "contractuel poste" into the Rectorat Of Academie de Besançon, Hakimel can see the template result on https://github.com/Acksop/MVC---Objet/tree/main-template-meny . The application was made with the admin teams of the DSI in Besançon.
+Because Two of his work on javascript helped me and interrest me. His meny was the template I choose for a important project I do during my "contractuel poste" into the Rectorat Of Academie de Besançon, Hakimel can see the template result on https://github.com/Acksop/MVC---Objet/tree/main-template-meny . The application was made with the admin teams of the DSI in Besançon.
 
 The other thing I like is the sticky button forkit, which I want to improve by color and a rebond effect that I know the algorythm since 2001. I really like the code for the forkit button. Thanks, I'm very gratefull. 
 
