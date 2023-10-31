@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-💖 I'm sponsoring :
+💖 I have sponsoring :
 
 @hakimel
 
