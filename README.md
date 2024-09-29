@@ -1,10 +1,10 @@
 ### Welcome 👋 
 
-🔭 I’m currently working on integration of SAND-framework into the OJACEcity-project (https://ojacecity.app). 
+🔭 I’m currently integrate SAND-framework into the main-capsule of OJACEcity-project (https://ojacecity.app). 
 
 💬 Ask me about SAND or do Simply (A New Directory | AND)*
 
-🤔 I’m looking for building new features on it
+🤔 I’m looking for building new modular features on it
 
 ❤️ Share a like if you love your job
 
