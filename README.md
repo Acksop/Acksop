@@ -6,7 +6,7 @@
 
 🤔 I’m looking for building new modular features on it
 
-❤️ Share a like if you love your job
+❤️ Share a like if you love this job
 
 🌱 I’m currently learning how to do clean and respectful coding
 
